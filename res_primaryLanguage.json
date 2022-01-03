@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Kalle Chen. A react focused frontend developer. I love to build things and learn new things. I'm currently a senior at the National Yang Ming Chiao Tung University studying Computer Science. Currently interested in blockchain technologies.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Kalle's Space",
+      "startDate": "2020",
+      "description": "My personal blog. A place to share my thoughts and learn new things.",
+      "images": ["images/portfolio/projects/kallespace.png"],
+      "url": "https://kallechen.github.io/blog/",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Hexo"
+        }
+      ]
+    },
+    {
+      "title": "Smart Campus",
+      "startDate": "2019",
+      "description": "A platform for NCTU students to get information about the campus. Also for study crowdsourcing.",
+      "link": "https://github.com/CAMPUS-NYCU/SmartCampus",
+      "images": ["images/portfolio/projects/campus.png"],
+      "url": "https://smartcampus-1b31f.firebaseapp.com/map/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-google-plain",
+          "name": "Google Auth"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ]
+    },
+    {
+      "title": "Time to Go out",
+      "startDate": "2020",
+      "description": "A little site project to help people to decide where to go out.",
+      "link": "https://github.com/KalleChen/Time-To-Go-Out",
+      "images": ["images/portfolio/projects/timetogoout.png"],
+      "url": "https://time-to-go-out.web.app/scenicSpot",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DakoData",
+      "title": "R&D Engineer",
+      "years": "02.2021 - present",
+      "mainTech": ["React"],
+      "technologies": [
+        "React",
+        "FastApi",
+        "JavaScript",
+        "Material UI",
+        "Python"
+      ]
+    },
+    {
+      "company": "3drens",
+      "title": "Intern",
+      "years": "07.2021 - 9.2021",
+      "mainTech": ["React"],
+      "technologies": ["React", "React Native", "JavaScript", "Sass"]
+    },
+    {
+      "company": "CAMPUS",
+      "title": "Member",
+      "years": "05.2020 - present",
+      "mainTech": ["React"],
+      "technologies": ["React", "JavaScript", "GraphQL", "WebSocket"]
+    },
+    {
+      "company": "NCTU+",
+      "title": "Frontend team Member",
+      "years": "07.2019 - 05.2020",
+      "mainTech": ["React"],
+      "technologies": ["React", "JavaScript"]
+    }
+  ]
+}
+

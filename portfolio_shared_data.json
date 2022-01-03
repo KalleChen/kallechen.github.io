@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "name": "Kalle Chen",
+    "titles": ["Front-end Developer", "Blockchain Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/KalleChen",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kalle-chen-429459199/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/l4ll1p0p",
+        "class": "fab fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kalle_space/",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "medium",
+        "url": "https://kallechen.medium.com/",
+        "class": "fab fa-medium"
+      }
+    ],
+    "image": "myProfile.JPG"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "70"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain"
+      },
+      {
+        "name": "Vim",
+        "class": "devicon-vim-plain"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain"
+      }
+    ]
+  }
+}
