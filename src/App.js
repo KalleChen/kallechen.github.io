@@ -9,7 +9,6 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
 class App extends Component {
-
   constructor(props) {
     super();
     this.state = {
@@ -83,7 +82,10 @@ class App extends Component {
     return (
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
-        <div className="col-md-12 mx-auto text-center language">
+        <div
+          className="col-md-12 mx-auto text-center language"
+          style={{ display: "none" }}
+        >
           <div
             onClick={() =>
               this.applyPickedLanguage(
