@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Kalle Chen. A react focused frontend developer. I love to build things and learn new things. I'm currently a senior at the National Yang Ming Chiao Tung University studying Computer Science. Currently interested in blockchain technologies.",
+    "description": "👋 I'm Kalle Chen. A react focused frontend developer. I love to build things and learn new things. I'm currently a senior at National Yang Ming Chiao Tung University studying Computer Science. Currently interested in blockchain technologies.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -105,4 +105,3 @@
     }
   ]
 }
-
