@@ -1,7 +1,4 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
   render() {
@@ -25,10 +22,7 @@ class About extends Component {
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
-                  <img
-                    src={profilepic}
-                    alt="Avatar placeholder"
-                  />
+                  <img src={profilepic} alt="Avatar placeholder" />
                   {/* <Icon */}
                   {/*   icon={reactIcon} */}
                   {/*   style={{ fontSize: "400%", margin: "9% 5% 0 5%" }} */}
