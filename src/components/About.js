@@ -62,14 +62,17 @@ class About extends Component {
                     style={{
                       height: "auto",
                       fontSize: "132%",
-                      lineHeight: "200%",
+                      lineHeight: "250%",
                     }}
                   >
-                    <br />
                     <span className="wave">{hello} :) </span>
                     <br />
-                    <br />
-                    {about}
+                    {about?.split("\n").map((item, key) => (
+                      <span key={key}>
+                        {item}
+                        <br />
+                      </span>
+                    ))}
                   </div>
                 </div>
               </div>

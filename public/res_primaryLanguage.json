@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Kalle Chen. A react focused frontend developer. I love to build things and learn new things. I'm currently a senior at National Yang Ming Chiao Tung University studying Computer Science. Currently interested in blockchain technologies.",
+    "description_header": "Hi, I'm Kalle Chen",
+    "description": "A react focused frontend developer and blockchain developer.\n B.S. of Computer Science in National Chiao Tung University.\n Love new tecknologies and building something cool.\nCurrently interested in blockchain and web3. \nkallechen.eth",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -10,6 +10,38 @@
     }
   },
   "projects": [
+    {
+      "title": "Web Fighting Game",
+      "startDate": "2022",
+      "description": "Use canvas to build a simple fighting web game",
+      "images": ["images/portfolio/projects/fighting-web-game.png"],
+      "link": "https://github.com/KalleChen/fighting-web-game",
+      "url": "https://kallechen.github.io/fighting-web-game/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Master Duel Week",
+      "startDate": "2022",
+      "description": "A project that auto generate a master duel meta info video with remotion.js and tweet it on twitter using twitter API.",
+      "images": ["images/portfolio/projects/masterduel.png"],
+      "link": "https://github.com/KalleChen/master-duel-week",
+      "url": "https://twitter.com/masterduelweek",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-twitter-original",
+          "name": "Twitter API"
+        }
+      ]
+    },
     {
       "title": "Kalle's Space",
       "startDate": "2021",
@@ -70,21 +102,42 @@
   ],
   "experience": [
     {
+      "company": "Blockchain Security",
+      "title": "Engineer Intern",
+      "years": "03.2022 - 07.2022",
+      "mainTech": ["Blockchain"],
+      "technologies": [
+        "Blockchain",
+        "Hyperledger Fabric",
+        "Vue",
+        "IPFS",
+        "Python"
+      ]
+    },
+    {
       "company": "DakoData",
       "title": "R&D Engineer",
-      "years": "02.2021 - present",
+      "years": "02.2021 - 12.2021",
       "mainTech": ["React"],
       "technologies": [
         "React",
         "FastApi",
         "JavaScript",
         "Material UI",
-        "Python"
+        "Python",
+        "Scrum"
       ]
     },
     {
+      "company": "NYCU IT Center",
+      "title": "Software Engineer",
+      "years": "02.2021 - 06.2021",
+      "mainTech": ["Wordpress"],
+      "technologies": ["Wordpress", "php", "JavaScript"]
+    },
+    {
       "company": "3drens",
-      "title": "Intern",
+      "title": "Frontend Intern",
       "years": "07.2021 - 9.2021",
       "mainTech": ["React"],
       "technologies": ["React", "React Native", "JavaScript", "Sass"]
