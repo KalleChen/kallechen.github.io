@@ -27,9 +27,14 @@
         "name": "medium",
         "url": "https://kallechen.medium.com/",
         "class": "fab fa-medium"
+      },
+      {
+        "name": "CV",
+        "url": "https://kallechen.github.io/kallechen/Resume.pdf",
+        "class": "fas fa-file-user"
       }
     ],
-    "image": "myProfile.JPG"
+    "image": "myProfile.png"
   },
   "skills": {
     "icons": [
